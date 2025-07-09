@@ -1,12 +1,45 @@
-- 👋 Hi, I’m @MarceloPMelo
-- 👀 I’m interested in Software Development, Project Management and Business Management
-- 🌱 I’m currently studying Information Systems
-- 💞️ I’m looking to collaborate on projects related with software development and information systems that are able to solve important issues, making the world a better place.
-- 📫 Here are my social media acounts where you can see a little more about myself: Instagram @tecopmelo  Linkedin: Marcelo Melo
-- 😄 Pronouns: He/him
+# Olá, sou o Marcelo Melo! 👋
 
+---
 
-<!---
-MarceloPMelo/MarceloPMelo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Sou um desenvolvedor **Back-End** apaixonado por **dados**, **automação** e **produto**, com especialização em **Python** e **Aplicações Web**. Atualmente, estou focado em aprimorar minhas habilidades em desenvolvimento de sistemas e explorar novas tecnologias.
+
+Estudo **Sistemas de Informação** na UFPE - CIN.
+
+---
+
+### 💻 Tecnologias e Ferramentas:
+
+* **Linguagens de Programação**: Python, C++, JavaScript, TypeScript
+* **Análise de Dados**: Pandas, NumPy, Matplotlib
+* **Bancos de Dados**: Postgres
+* **Desenvolvimento Web**: HTML, CSS, Node.js, React
+* **Versionamento e Fluxo de Trabalho**: Git, GitFlow
+* **Metodologias Ágeis e Gerenciamento**: Scrum, Jira
+
+---
+
+### 📚 Atualmente Estudando:
+
+* LangGraph
+* NestJS
+* Power BI
+* HTML/CSS
+
+---
+
+### ✨ Projetos Destacados:
+
+* **CIN Invaders**: Um jogo desenvolvido em Python, aplicando conceitos de Programação Orientada a Objetos (POO), onde atuei como Tech Lead.
+* **Sistema de Gestão de Condomínio**: Sistema desenvolvido em C++ com foco em POO para gestão de dados e operações de condomínios.
+* **Desafio API RESTful**: Uma API RESTful construída com TypeScript, Node.js e NestJS, integrando-se com um banco de dados relacional.
+
+---
+
+### ✉️ Conecte-se Comigo!
+
+Estou sempre aberto a novas conexões e colaborações. Sinta-se à vontade para explorar meus repositórios e entrar em contato!
+
+* **LinkedIn**: [https://www.linkedin.com/in/marcelo-melo-689a00252/](https://www.linkedin.com/in/marcelo-melo-689a00252/)
+* **Instagram**: [https://www.instagram.com/marcelopmelo_?igsh=aWRsZWFsa3IyMGNw&utm_source=qr](https://www.instagram.com/marcelopmelo_?igsh=aWRsZWFsa3IyMGNw&utm_source=qr)
+* **Email**: mpedrosa.melo@gmail.com
